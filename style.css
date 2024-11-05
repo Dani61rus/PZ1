@@ -84,7 +84,7 @@ h5{
 
 /* 1st Slide */
 .slide1{
-    background-image: url(img/bg_man.png);
+    background-image: url('img/bg_man.png');
     background-repeat: no-repeat;
     padding-top: 10%;
     padding-left: 5%;
